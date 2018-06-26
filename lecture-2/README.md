@@ -1,6 +1,16 @@
-## June 25 - Lecture 2, Shop
+## June 25 - Lecture 2
 
-Requirements:
+#### Lecture overview:
+
+- OOP Basics 
+- Classes vs Structures
+- Enums
+- Protocols
+- Extensions
+
+### Homework - Shop
+
+#### Requirements:
 
 - Must adhere to OOP principles!!!
 - You enter your name
@@ -11,7 +21,7 @@ Requirements:
 - You can checkout the cart
 - Also check if you have enought money, otherwise return some goods
 
-Extras (+5 for each):
+#### Extras (+5 for each):
 
 - Finite amount of goods
 - Sellers has balance too, you can check it
