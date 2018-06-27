@@ -1,4 +1,4 @@
-## June 25 - Lecture 2
+## June 26 - Lecture 2
 
 #### Lecture overview:
 
