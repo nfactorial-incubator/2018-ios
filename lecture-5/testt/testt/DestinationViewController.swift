@@ -24,6 +24,7 @@ class DestinationViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        
         self.label.text = text
         
         // Do any additional setup after loading the view.
