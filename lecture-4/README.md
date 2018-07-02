@@ -1,4 +1,4 @@
-## June 28 - Lecture 4
+## June 28 - Lecture 4 - UIKit Basics
 
 #### Lecture overview:
 

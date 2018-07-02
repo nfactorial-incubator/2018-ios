@@ -1,4 +1,4 @@
-## June 25 - Lecture 1
+## June 25 - Lecture 1 - Introduction to Swift
 
 #### Lecture overview:
 

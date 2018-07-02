@@ -1,4 +1,4 @@
-## June 27 - Lecture 3
+## June 27 - Lecture 3 - Introduction to UIKit
 
 #### Lecture overview:
 

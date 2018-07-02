@@ -1,4 +1,4 @@
-## June 26 - Lecture 2
+## June 26 - Lecture 2 - Introduction to OOP
 
 #### Lecture overview:
 
