@@ -7,7 +7,7 @@
 - Reference type vs Value type
 - Reference counting
 - ARC
-- Memory leaks
-- Retain cycles (closures, weak/unowned)
+- Memory leaks (Dangling Pointer, Retain Cycle)
+- Retain cycles (closures, weak / unowned)
 
 ### Homework - Mega (Continued from Lecture 8)
