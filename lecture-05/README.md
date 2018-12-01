@@ -21,4 +21,4 @@
 
 #### Screenshots:
 
-![Combo](https://raw.githubusercontent.com/n17r-resources/ios/master/lecture-5/Screenshots/hw5.gif)
+![Combo](https://raw.githubusercontent.com/n17r-resources/ios/master/lecture-05/Screenshots/hw5.gif)

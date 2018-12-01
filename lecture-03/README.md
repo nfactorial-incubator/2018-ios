@@ -12,9 +12,9 @@
 
 #### Screenshots:
 
-![Bio](https://raw.githubusercontent.com/n17r-resources/ios/master/lecture-3/Screenshots/1.png)
+![Bio](https://raw.githubusercontent.com/n17r-resources/ios/master/lecture-03/Screenshots/1.png)
 
-![Bio](https://raw.githubusercontent.com/n17r-resources/ios/master/lecture-3/Screenshots/2.png)
+![Bio](https://raw.githubusercontent.com/n17r-resources/ios/master/lecture-03/Screenshots/2.png)
 
 #### Extras (+5 for each):
 

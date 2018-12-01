@@ -52,4 +52,4 @@ end
 
 #### Screenshots:
 
-![Suretgram](https://raw.githubusercontent.com/n17r-resources/ios/master/lecture-7/Screenshots/demonstration.gif)
+![Suretgram](https://raw.githubusercontent.com/n17r-resources/ios/master/lecture-07/Screenshots/demonstration.gif)

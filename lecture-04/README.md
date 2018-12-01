@@ -30,6 +30,6 @@
 #### Screenshots:
 
 
-![Todo](https://raw.githubusercontent.com/n17r-resources/ios/master/lecture-4/Screenshots/Todo.gif)
+![Todo](https://raw.githubusercontent.com/n17r-resources/ios/master/lecture-04/Screenshots/Todo.gif)
 
-![Todo](https://raw.githubusercontent.com/n17r-resources/ios/master/lecture-4/Screenshots/screen1.jpg)
+![Todo](https://raw.githubusercontent.com/n17r-resources/ios/master/lecture-04/Screenshots/screen1.jpg)
